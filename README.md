@@ -1,2 +1,2 @@
 # react-typescript
-A React - Typescript to do app
+A React - Typescript for to do app
